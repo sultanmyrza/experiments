@@ -4137,6 +4137,7 @@ __metadata:
     eslint: "npm:^9.25.0"
     eslint-config-expo: "npm:~10.0.0"
     expo: "npm:~54.0.11"
+    expo-audio: "npm:~1.0.13"
     expo-constants: "npm:~18.0.9"
     expo-dev-client: "npm:~6.0.13"
     expo-font: "npm:~14.0.8"
@@ -5002,6 +5003,17 @@ __metadata:
     react: "*"
     react-native: "*"
   checksum: 10c0/7a66523e26e9868ad7961c9d6436f188e2832a7b3168a47be10ae8468616250803d31ded11b61bcc920e2aa0f0443c69fcb220be16b0b120aa255a840a355032
+  languageName: node
+  linkType: hard
+
+"expo-audio@npm:~1.0.13":
+  version: 1.0.13
+  resolution: "expo-audio@npm:1.0.13"
+  peerDependencies:
+    expo: "*"
+    react: "*"
+    react-native: "*"
+  checksum: 10c0/5e26bb1a3e50f39b025394787a24f1182a9605c0a294ecf7abfc82177648e4ac5a4e0ac19675fab04fedf279492879e84fc2326fb72de7ea13316d5444ab24aa
   languageName: node
   linkType: hard
 
